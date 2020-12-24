@@ -12,7 +12,7 @@ https://twitter.com/Engr_Coal33/status/1341639508656189443
 ```
 $ git clone https://github.com/Coal33/1000-base.git
 $ cd 1000-base
-$ python3 1000-base
+$ python3 1000-base.py
 ```
 
 10 進のアラビア数字を入力すると千字文千進数に、千字文千進数を入力すると 10 進のアラビア数字に変換されます。
